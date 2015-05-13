@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<themes>
+  <theme>
+    <title>fjpalma_sfc</title>
+    <date>24/09/14</date>
+    <version>6.22</version>
+    <wp>0</wp>
+  </theme>
+  <theme>
+    <title>K4j</title>
+    <date>13/05/2015</date>
+    <version>1.0</version>
+    <wp>6.22</wp>
+    <screenshots>
+      <screenshot>screenshot1.jpg</screenshot>
+      <screenshot>screenshot2.jpg</screenshot>
+      <screenshot>screenshot3.jpg</screenshot>
+    </screenshots>
+  </theme>
+</themes>
